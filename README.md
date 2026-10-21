@@ -4,7 +4,7 @@
 This project is an interactive Power BI dashboard created to analyze global sales metrics, region-wise revenue distribution, and profit margins.
 
 ## 📈 Dashboard Preview
-![Sales Analytics Dashboard](BA SalesDataDashboard.png)
+![Sales Analytics Dashboard](BASalesDataDashboard.png)
 
 ## 💡 Key Features & Analysis
 * **KPI Metrics:** Tracked Total Profit (£117.22M) and aggregate revenue across product categories.
